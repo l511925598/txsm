@@ -12,6 +12,6 @@ hero:
       link: /choose
     - theme: alt
       text: find
-      link: /markdown-examples
+      link: /find
 ---
 

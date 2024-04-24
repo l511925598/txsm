@@ -11,15 +11,15 @@ export default defineConfig({
       { text: 'choose', link: '/choose' }
     ],
 
-    // sidebar: [
-    //   {
-    //     text: 'Examples',
-    //     items: [
-    //       { text: 'Markdown Examples', link: '/markdown-examples' },
-    //       { text: 'Runtime API Examples', link: '/api-examples' }
-    //     ]
-    //   }
-    // ],
+    sidebar: [
+      {
+        text: 'Catalogue',
+        items: [
+          { text: 'choose', link: '/choose' },
+          { text: 'find', link: '/find' }
+        ]
+      }
+    ],
     //
     // socialLinks: [
     //   { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
