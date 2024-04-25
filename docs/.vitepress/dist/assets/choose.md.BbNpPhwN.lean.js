@@ -1,0 +1,1 @@
+import{_ as p,c as e,o as t,a3 as a}from"./chunks/framework.DwjIeU-z.js";const f=JSON.parse('{"title":"我选择","description":"","frontmatter":{},"headers":[],"relativePath":"choose.md","filePath":"choose.md"}'),o={name:"choose.md"},s=a("",23),_=[s];function c(r,n,i,d,h,l){return t(),e("div",null,_)}const u=p(o,[["render",c]]);export{f as __pageData,u as default};
